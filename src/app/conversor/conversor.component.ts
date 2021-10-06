@@ -19,7 +19,6 @@ export class ConversorComponent implements OnInit {
   ngOnInit() {
     this.unidades = this.conversorService.getUnidades()
   }
-
   formatarUnidade(unidade) {
     this.resultado = null
     if (unidade.valid) {
