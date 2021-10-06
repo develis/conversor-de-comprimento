@@ -1,6 +1,5 @@
 # Conversor de comprimento
 
-![GitHub repo size](https://img.shields.io/github/repo-size/develis/conversor-de-comprimento?style=for-the-badge)
 ![GitHub language count](https://img.shields.io/github/languages/count/develis/conversor-de-comprimento?style=for-the-badge)
 
 > Projeto realizado em Angular, converte entre as medidas de comprimento quilômetros, metros, centímetros e milímetros
