@@ -18,7 +18,7 @@ export class ConversorService {
         const valor = parseFloat(partes[0])
 
         if (!this.isNumber(valor)) {
-            return null // acho que pode ser false também
+            return null
         }
         const unidade = Unidades.filter((unidade) => partes[1].toLowerCase() === unidade.unidade)
 
