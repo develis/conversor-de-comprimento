@@ -1,1 +1,20 @@
-/* You can add global styles to this file, and also import other style files */
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@400;700&display=swap');
+
+* {
+    color: white;
+    font-family: 'Quicksand', sans-serif;
+}
+
+select, option{
+    color: black;
+}
+
+h1{
+    font-weight: 700 !important;
+}
+
+.resultado_div{
+    background: rgb(80, 80, 80);
+    padding: 1vh;
+    border-radius: 1vh;
+}
