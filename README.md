@@ -2,7 +2,7 @@
 
 📍 https://develis.github.io/conversor-de-comprimento/
 
-> Projeto realizado em Angular, converte entre as medidas de comprimento quilômetros, metros, centímetros e milímetros
+> Projeto realizado em Angular, converte entre as medidas de comprimento quilômetros, metros, centímetros e milímetros.
 
 ## 🚀 Instalando conversor de comprimento
 
